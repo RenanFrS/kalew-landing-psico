@@ -7,6 +7,7 @@ import { QuoteSection } from '@/components/sections/QuoteSection'
 import { HowItWorksSection } from '@/components/sections/HowItWorksSection'
 import { FAQSection } from '@/components/sections/FAQSection'
 import { ContactSection } from '@/components/sections/ContactSection'
+import { InstagramSection } from '@/components/sections/InstagramSection'
 
 export default function HomePage() {
   return (
@@ -18,6 +19,7 @@ export default function HomePage() {
         <AboutSection />
         <QuoteSection />
         <HowItWorksSection />
+        <InstagramSection />
         <FAQSection />
         <ContactSection />
       </main>

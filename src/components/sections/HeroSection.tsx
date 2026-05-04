@@ -75,7 +75,7 @@ export function HeroSection() {
             <div data-reveal style={revealStyle} className="flex items-center gap-4 mb-8">
               <div className="w-8 h-px bg-brand-clay" />
               <span className="font-sans text-xs tracking-[0.3em] text-brand-clay uppercase">
-                Psicanálise Online
+                Psicoterapia Online
               </span>
             </div>
 

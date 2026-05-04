@@ -11,6 +11,6 @@ export const NAV_LINKS = [
 
 export const SITE_CONFIG = {
   name: 'Passar Par La Mer',
-  tagline: 'Psicanálise Online',
+  tagline: 'Psicoterapia de orientação psicanalítica',
   crp: 'CRP 01/12345', 
 } as const
