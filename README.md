@@ -1,4 +1,4 @@
-# Passar Par La Mer — Landing Page
+# Passer Par La Mer — Landing Page
 
 Landing page para consultório de psicanálise, desenvolvida em **Next.js 15 + TypeScript + Tailwind CSS v4**.
 

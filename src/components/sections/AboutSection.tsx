@@ -96,7 +96,7 @@ export function AboutSection() {
               style={{ opacity: 0, transform: 'translateY(32px)', transition: 'opacity 0.9s ease, transform 0.9s ease', fontSize: 'clamp(1.8rem, 3.5vw, 3rem)' }}
               className="font-serif font-light text-brand-umber mb-6 leading-tight"
             >
-              Passar Par La Mer —<br />
+              Passer Par La Mer —<br />
               <em className="italic text-brand-clay">atravessar o mar</em>
             </h2>
 

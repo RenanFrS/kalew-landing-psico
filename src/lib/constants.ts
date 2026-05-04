@@ -10,7 +10,7 @@ export const NAV_LINKS = [
 ] as const
 
 export const SITE_CONFIG = {
-  name: 'Passar Par La Mer',
+  name: 'Passer Par La Mer',
   tagline: 'Psicoterapia de orientação psicanalítica',
   crp: 'CRP 01/12345', 
 } as const

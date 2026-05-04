@@ -28,7 +28,7 @@ export function Header() {
         {/* Logo */}
         <Link href="/" className="flex flex-col leading-none group">
           <span className="font-serif text-lg font-light tracking-widest text-brand-umber uppercase">
-            Passar Par La Mer
+            Passer Par La Mer
           </span>
           <span className="font-sans text-[10px] tracking-[0.25em] text-brand-clay uppercase mt-0.5">
             {SITE_CONFIG.tagline}

@@ -9,7 +9,7 @@ export function Footer() {
           {/* Brand */}
           <div>
             <p className="font-serif text-xl font-light tracking-widest text-brand-cream uppercase mb-2">
-              Passar Par La Mer
+              Passer Par La Mer
             </p>
             <p className="font-sans text-xs tracking-[0.25em] text-brand-sand/60 uppercase mb-4">
               {SITE_CONFIG.tagline}
@@ -67,7 +67,7 @@ export function Footer() {
             {SITE_CONFIG.crp} · Atendimento online
           </p>
           <p className="font-sans text-xs font-light text-brand-sand/40">
-            © {new Date().getFullYear()} Passar Par La Mer. Todos os direitos reservados.
+            © {new Date().getFullYear()} Passer Par La Mer. Todos os direitos reservados.
           </p>
         </div>
 

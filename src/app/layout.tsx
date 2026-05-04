@@ -23,8 +23,8 @@ const siteUrl = process.env.NEXT_PUBLIC_SITE_URL ?? 'http://localhost:3000'
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),
   title: {
-    default: 'Psicanálise Online | Passar Par La Mer',
-    template: '%s | Passar Par La Mer',
+    default: 'Psicanálise Online | Passer Par La Mer',
+    template: '%s | Passer Par La Mer',
   },
   description:
     'Atendimento psicanalítico online. Um espaço de escuta, elaboração e travessia. Para quem busca compreender o que repete, o que dói e o que ainda não tem nome.',
@@ -46,8 +46,8 @@ export const metadata: Metadata = {
     type: 'website',
     locale: 'pt_BR',
     url: siteUrl,
-    siteName: 'Passar Par La Mer — Psicanálise',
-    title: 'Psicanálise Online | Passar Par La Mer',
+    siteName: 'Passer Par La Mer — Psicanálise',
+    title: 'Psicanálise Online | Passer Par La Mer',
     description:
       'O consultório analítico é um espaço diferente: você fala, e algo no que diz começa a revelar o que ainda não sabia sobre si mesmo. A escuta clínica cria essa abertura.',
     images: [
@@ -55,14 +55,14 @@ export const metadata: Metadata = {
         url: '/instagram/passerparlamer_logo_dark.jpg',
         width: 1200,
         height: 630,
-        alt: 'Passar Par La Mer - Psicanálise',
+        alt: 'Passer Par La Mer - Psicanálise',
         type: 'image/jpeg',
       },
     ],
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Psicanálise Online | Passar Par La Mer',
+    title: 'Psicanálise Online | Passer Par La Mer',
     description:
       'Atendimento psicanalítico online. Um espaço de escuta, elaboração e travessia.',
     images: ['/og-image.svg'],
