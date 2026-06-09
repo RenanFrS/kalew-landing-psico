@@ -8,6 +8,7 @@ import { HowItWorksSection } from '@/components/sections/HowItWorksSection'
 import { FAQSection } from '@/components/sections/FAQSection'
 import { ContactSection } from '@/components/sections/ContactSection'
 import { InstagramSection } from '@/components/sections/InstagramSection'
+import { SubstackSection } from '@/components/sections/SubstackSection'
 
 export default function HomePage() {
   return (
@@ -21,6 +22,7 @@ export default function HomePage() {
         <HowItWorksSection />
         <InstagramSection />
         <FAQSection />
+        <SubstackSection />
         <ContactSection />
       </main>
       <Footer />

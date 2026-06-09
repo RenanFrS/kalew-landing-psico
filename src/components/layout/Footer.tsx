@@ -1,5 +1,5 @@
 import Link from 'next/link'
-import { INSTAGRAM_URL, SITE_CONFIG, WHATSAPP_URL } from '@/lib/constants'
+import { INSTAGRAM_URL, SITE_CONFIG, SUBSTACK_URL, WHATSAPP_URL } from '@/lib/constants'
 
 export function Footer() {
   return (
@@ -54,6 +54,14 @@ export function Footer() {
                 className="font-sans text-sm font-light text-brand-sand/70 hover:text-brand-sand transition-colors animated-underline"
               >
                 Instagram
+              </a>
+              <a
+                href={SUBSTACK_URL}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="font-sans text-sm font-light text-brand-sand/70 hover:text-brand-sand transition-colors animated-underline"
+              >
+                Substack
               </a>
             </div>
           </div>
