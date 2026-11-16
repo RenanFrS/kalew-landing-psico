@@ -39,3 +39,6 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Versões de imagem geradas no build (scripts/gerar-imagens.mjs)
+/public/_img/
